@@ -85,7 +85,7 @@ function generatetableAib(value) {
 
     value.forEach(function(data) {
         let valor = data['Transaction Type'] == "Debit" ? `-${data[" Debit Amount"]}` : data[" Credit Amount"];
-        generateTable(data[' Posted Transactions Date'], data[' Description'], valor, "AIB");
+        generateTable(data[' Posted Transactions Date'], data[' Description1'], valor, "AIB");
     });
 }
 
