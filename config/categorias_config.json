@@ -1,76 +1,28 @@
 {
   "categorias": {
-    "Brasil": [
-      "OUTRA DESCRICAO 2",
-      "COMPANHIA AEREA"
-    ],
-    "Casal": [
-      "SUPERMERCADO",
-      "HOUSE"
-    ],
+    "Brasil": ["OUTRA DESCRICAO 2", "COMPANHIA AEREA"],
+    "Casal": ["SUPERMERCADO", "HOUSE"],
     "Despesas diárias": [
       "THE BUTTON FA",
       "DELIVEROO",
       "BARBER",
-      "HOLOHANFITNESS"
+      "HOLOHANFITNESS",
+      "Offbeat Donut Co."
     ],
-    "Educação": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
-    "Presentes": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
-    "Saúde": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
-    "Tecnologia": [
-      "WINDSCRIBE.COM",
-      "GOOGLE *Google"
-    ],
-    "Viagens": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
+    "Educação": ["SUPERMERCADO", "LOJA DE ROUPAS"],
+    "Presentes": ["SUPERMERCADO", "LOJA DE ROUPAS"],
+    "Saúde": ["SUPERMERCADO", "LOJA DE ROUPAS"],
+    "Tecnologia": ["WINDSCRIBE.COM", "GOOGLE *Google"],
+    "Viagens": ["SUPERMERCADO", "LOJA DE ROUPAS"],
 
-    "Investimentos": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
-    "Outros": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
-    "Pagamento despesas": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
-    "Prêmios": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
-    "Presente": [
-      "SUPERMERCADO",
-      "LOJA DE ROUPAS"
-    ],
-    "Salário": [
-      "BARDEN",
-      "LOJA DE ROUPAS"
-    ],
-    "Transporte": [
-      "LEAP CARD APP",
-      "LOJA DE ROUPAS"
-    ]
+    "Investimentos": ["SUPERMERCADO", "LOJA DE ROUPAS"],
+    "Outros": ["SUPERMERCADO", "LOJA DE ROUPAS"],
+    "Pagamento despesas": ["SUPERMERCADO", "LOJA DE ROUPAS"],
+    "Prêmios": ["SUPERMERCADO", "LOJA DE ROUPAS"],
+    "Presente": ["SUPERMERCADO", "LOJA DE ROUPAS"],
+    "Salário": ["BARDEN", "LOJA DE ROUPAS"],
+    "Transporte": ["LEAP CARD APP", "LOJA DE ROUPAS"]
   },
-  "transferencias_show": [
-    "DONT TOUCH-1",
-    "SAVINGS",
-    "Revolut**7081*"
-  ],
-  "transferencias_remove": [
-    "Apple Pay Top-Up by *2439",
-    "To EUR Savings"
-  ]
+  "transferencias_show": ["DONT TOUCH-1", "SAVINGS", "Revolut**7081*"],
+  "transferencias_remove": ["Apple Pay Top-Up by *2439", "To EUR Savings"]
 }
