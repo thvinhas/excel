@@ -82,9 +82,14 @@ title: ''
 
 // Funções para gerar tabelas (mantidas as mesmas, com finalvalue sendo preenchido)
 function generatetableAib(value) {
-
+    let valor = 0;
     value.forEach(function(data) {
-        let valor = data['Transaction Type'] == "Debit" ? `-${data[" Debit Amount"]}` : data[" Credit Amount"];
+        if(data['Transaction Type'] == "Debit" || data['Transaction Type'] == "Direct Debit") {
+            valor = `-${data[" Debit Amount"]}`
+        }else {
+            data[" Credit Amount"];
+        }
+       
         generateTable(data[' Posted Transactions Date'], data[' Description1'], valor, "AIB");
     });
 }
